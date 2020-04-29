@@ -1,0 +1,40 @@
+.header{
+    height: 100px;
+    color: burlywood
+    ;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+h1{
+    text-decoration: solid;
+    text-shadow: black;
+}
+
+h2{
+    font-size: 100 px;
+    letter-spacing: .25cm
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h4{
+    font-size: large;
+}
+
+a{
+    color: darkslateblue;
+    border: black;
+    text-decoration: whitesmoke;
+}
+.borderstyle{
+    border-style: solid;
+    border-width: thick;
+    width: 500px;
+    color: black;
+}
